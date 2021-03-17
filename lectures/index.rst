@@ -1,10 +1,6 @@
 Project Module in Management and Applied Economics
 ================================================
-.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
-  :target: https://opensource.org/licenses/MIT
 
-
-Please use the table of content to navigate the rest of the material.
 
 .. toctree::
    :maxdepth: 1
